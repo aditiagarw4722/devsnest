@@ -10,13 +10,21 @@
 <br>
 <p3>Settle,WA 98765</p3>
 <br>
+</br>
 <p3>October 23,2017</p3>
-<br>
+</br>
+<br/>
 </body>
 <p3>Fred Finestone</p3>
+<br>
 <p3>Sales Manager</p3>
-<h3>Cheese Specialists Inc. </p3>
-<h3>456 Rubble Road</h3>
-<h3> Rockville,IL 78777</h3>
-<h3> Dear Mr Finestone,</h3>
-
+<br>
+<p3>Cheese Specialists Inc. </p3>
+    <br>
+<p3>456 Rubble Road</p3>
+<br>
+<p3> Rockville,IL 78777</p3>
+<br>
+</br>
+<p3> Dear Mr Finestone,</p3>
+<br>
