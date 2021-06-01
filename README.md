@@ -27,4 +27,20 @@
 <br>
 </br>
 <p3> Dear Mr Finestone,</p3>
+<br/>
+</br>
+With reference to our <u>telephone conversation</u> today, I am writing to confirm ypour order for: 120 x cheddar Deluxe Ref No: 856.
+<br/>
+<br/>
+The order will be shipped within 3 days via UPS and should arrive at your store in about 10 days.
+<br/>
+<br/>
+Please contact us again if we can help in any way.
+<br/>
+<br/>
+Your Sincerly,
 <br>
+Kenneth Beare 
+<br>
+Director of Ken's Cheese House
+</html>
